@@ -1,5 +1,3 @@
 import React from 'react';
+import { App } from './App';
 
-const App = () => {
-  return <h1>Olá</h1>;
-}
